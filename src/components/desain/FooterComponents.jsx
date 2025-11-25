@@ -9,7 +9,6 @@ function FooterComponent() {
                <h6 className="text-uppercase fw-bold mb-4">Mahasiwa</h6>
                <p>{new Date().getFullYear()} Mahasiswa . All right reserved</p>
             </div>
-            s
             <div className="d-flex justify-content-center">
                <a href="/" className="me-4 text-reset">
                   Home
