@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
-import CreateMahasiswa from "./components/mhs/createMahasiswa";
+import CreateMahasiswa from "./components/mhs/CreateMahasiswa";
 import ReadMahasiswa from "./components/mhs/ReadMahasiswa";
 import CreateSPP from "./components/spp/CreateSPP";
 import ReadSPP from "./components/spp/ReadSPP";
